@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To all who are advertised by G. Keith, of a meeting intended to be held by him, at Turners-Hall, the 11th of the 11th month, call'd January, 1699</title>
+            <author>Wyeth, Joseph, 1663-1731.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96989</idno>
+            <idno type="STC">Wing W3762</idno>
+            <idno type="STC">ESTC R232226</idno>
+            <idno type="EEBO-CITATION">99897870</idno>
+            <idno type="PROQUEST">99897870</idno>
+            <idno type="VID">170984</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96989)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170984)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2539:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To all who are advertised by G. Keith, of a meeting intended to be held by him, at Turners-Hall, the 11th of the 11th month, call'd January, 1699</title>
+                  <author>Wyeth, Joseph, 1663-1731.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed and sold by T. Sowle, in White-Hart-Court, in Gracious-Street,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the John Carter Brown Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Keith, George, 1639?-1716 --  Early works to 1800.</term>
+               <term>Society of Friends --  Apologetic works --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:170984:1"/>
+            <!-- PDF PAGE 116 -->
+            <pb n="1" facs="tcp:170984:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 116 -->
+            <head>To all who are Advertiſed by <hi>G. Keith,</hi> of a Meeting intended to be held by him, at <hi>Turners-Hall,</hi> the 11th of the 11th Month, call'd <date>January, 1699.</date>
+            </head>
+            <p>WHereas, <hi>G. K.</hi> hath Summon'd ſeve<g ref="char:EOLhyphen"/>ral of the People call'd <hi>Quakers,</hi> to the ſaid Meeting, promiſing, <hi>There to lay open</hi> (what he calls) <hi>their great Fallacy and Sophiſtry:</hi> I thought it convenient, being one of the Summon'd, to give you the following brief <hi>Relation.</hi>
+            </p>
+            <p>
+               <hi>G. Keith,</hi> (as by his Words and Books hath appeared) did, for about Thirty Years, pretend to be in Society and Fellowſhip with the Peo<g ref="char:EOLhyphen"/>ple call'd <hi>Quakers;</hi> during which time, he did repeatedly Vindicate, againſt our then Adver<g ref="char:EOLhyphen"/>ſaries, thoſe Doctrines to be <hi>Scriptural, Primitive</hi> and <hi>Chriſtian,</hi> which are moſt ſurely believed by us, and have ſo been, ever ſince we were a People; and did pledge his <hi>Inward ſenſe given him</hi> (as he ſaid) <hi>by the Spirit of God,</hi> that we were in Religion, and an agreeable Practice, truly Chriſtian.</p>
+            <p>
+               <pb n="2" facs="tcp:170984:2"/>
+               <!-- PDF PAGE 117 -->
+But the Man becoming Exalted, grew Con<g ref="char:EOLhyphen"/>tentious and Unchriſtian in his Behaviour, by his continuance in which, he did, <hi>Anno</hi> 95. exclude himſelf from our Society and Fellow<g ref="char:EOLhyphen"/>ſhip: Since this, his encreaſing Envy has led him into a Diſturbance of Mind, which in its courſe, reſembles the returns of a Delirious Affliction, for that he hath annually, ſince then, preſum'd to erect a <hi>mock-Theatre,</hi> there<g ref="char:EOLhyphen"/>by abuſing his Pretence to <hi>Permiſſion by Civil Authority;</hi> on which, while he endeavours to make us the ſubjects of his own, and the Peoples, Laughter and Odium, he makes himſelf the Object of our Pity, and Impartial Mens Contempt.</p>
+            <p>He does indeed ſpeak Loud of the <hi>Diſcovery of Groſs and Vile Errors, and Antichriſtian Princi<g ref="char:EOLhyphen"/>ples,</hi> which he ſayes we hold, and which <hi>by Ocular Inſpection,</hi> he ſays, <hi>he will preſent:</hi> But till his Eyes, like <hi>Eve</hi>'s, were open'd by his Fall, he did not lay open either <hi>Vile Errors, or Antichriſtian Principles,</hi> held by us, neither from his own <hi>Ocular Inſpection</hi> in our Books, nor from his pretended <hi>Inward Senſe</hi> of our Preaching.</p>
+            <p>And with reſpect to this his peremptory <hi>Sum<g ref="char:EOLhyphen"/>mons,</hi> and appointment of Matter, Time and Place; I ſay, That as we in common with all <hi>Proteſtant Diſſenters,</hi> are intitul'd to the peace<g ref="char:EOLhyphen"/>able
+<pb n="3" facs="tcp:170984:2"/>
+               <!-- PDF PAGE 117 -->Profeſſion of our Chriſtian Principles, we might be deem'd Imprudent to call it in Queſtion, by obeying the petulant <hi>Summons</hi> of this <hi>ſingle Diſturber;</hi> who, while he is noiſing it, That we are <hi>Repugnant to all true Proteſtants,</hi> ſhews not that himſelf is agreeable to any, in that he is not declar'd to be of any Society of Chriſtians; nor hath he, ſince his Defection from us, yet publiſhed, that I know of, what Community it is, which he judges to be in Doctrine and Practice, the moſt Chriſtian.</p>
+            <p>And tho' he by continuing this his diſtem<g ref="char:EOLhyphen"/>per'd Frolick, ſeems not at all, or not ſuffici<g ref="char:EOLhyphen"/>ently to have conſider'd that Act of Parliament, the Intent of which in its Preamble is decla<g ref="char:EOLhyphen"/>red to be, to <hi>
+                  <g ref="char:V">Ʋ</g>nite the King's Proteſtant Subjects in Intereſt and Affection:</hi> Yet we are too ſenſible of the benefit received thereby, to Trifle away That, for which we account our ſelves ſo thankfully engaged to our Superiours.</p>
+            <p>And to be abſent from ſuch Meetings we are yet the more ſtrictly engaged, when we call to mind, the ill uſe which was made of the preſence of ſome of our Friends but the laſt Year, at a Place and Time appointed by a few uneaſie <hi>Clergy-men</hi> in <hi>Norfolk</hi> for the ſame purpoſe.</p>
+            <p>
+               <pb n="4" facs="tcp:170984:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 118 -->
+Yet if our Adverſaries will ſay, We are Er<g ref="char:EOLhyphen"/>roneous in Principle; tho' we meet them not, they are not therefore without means of pub<g ref="char:EOLhyphen"/>liſhing their Sentiments of us by the Preſs, as appears by their many Books: And I hope we ſhall not be without the like means to refute Calumny, and Satisfie the Impartial, which we have hitherto done; in ſeveral Anſwers, both to this Man, and other our Adverſaries.</p>
+            <closer>
+               <signed>Joſeph Wyeth.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed and Sold by <hi>T. Sowle,</hi> in <hi>White-Hart-Court,</hi> in <hi>Gracious-Street,</hi> 1699.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
